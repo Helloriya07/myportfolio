@@ -3,13 +3,21 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 
 # Features
 
-*Clean and modern UI/UX
+* Clean and modern UI/UX
 
- *Fully responsive across devices
+ * Fully responsive across devices
 
 * Interactive elements and smooth transitions
 
-*Sectioned structure: About, Skills, Projects, Contact
+* Sectioned structure: About, Skills, Projects, Contact
 
-*Scroll animations and dynamic highlights
+* Scroll animations and dynamic highlights
+
+  # Technologies Used
+  
+* HTML5 – semantic and accessible markup
+
+* CSS3 – styling and responsive layout (Flexbox, Media Queries)
+
+* JavaScript – DOM manipulation and interactive behaviors
 
