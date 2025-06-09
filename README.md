@@ -1,14 +1,15 @@
 # Personal Portfolio Website
 This is my personal portfolio website built using HTML, CSS, and JavaScript. It showcases my skills, projects, and contact details in an interactive and responsive layout. The goal of this project is to create a digital presence and display my work to potential clients, employers, or collaborators.
 
-📌 Features
-✨ Clean and modern UI/UX
+# Features
 
-📱 Fully responsive across devices
+*Clean and modern UI/UX
 
-🎯 Interactive elements and smooth transitions
+ *Fully responsive across devices
 
-🧠 Sectioned structure: About, Skills, Projects, Contact
+* Interactive elements and smooth transitions
 
-🕶️ Scroll animations and dynamic highlights
+*Sectioned structure: About, Skills, Projects, Contact
+
+*Scroll animations and dynamic highlights
 
